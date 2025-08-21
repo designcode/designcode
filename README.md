@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @designcode
-- 👀 I’m interested in building scalable front-end applications using Typescript, Angular and React
 - 🚀 I'm currently working at @tigrisdata
-- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: hello@designcode.me
 
